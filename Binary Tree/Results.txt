@@ -1,0 +1,154 @@
+
+
+*******************MAIN MENU*******************
+
+ 1. Create tree
+ 2. Preorder traversal
+ 3. Inorder traversal
+ 4. Postorder traversal
+ 5. Delete an element
+ 6. Exit
+ -- Enter your selection:5
+
+ -- Enter the element to be deleted:2
+
+ -- The tree is Empty.
+
+
+*******************MAIN MENU*******************
+
+ 1. Create tree
+ 2. Preorder traversal
+ 3. Inorder traversal
+ 4. Postorder traversal
+ 5. Delete an element
+ 6. Exit
+ -- Enter your selection:2
+
+ -- The tree is empty
+
+
+*******************MAIN MENU*******************
+
+ 1. Create tree
+ 2. Preorder traversal
+ 3. Inorder traversal
+ 4. Postorder traversal
+ 5. Delete an element
+ 6. Exit
+ -- Enter your selection:1
+
+ -- Creating Tree.
+
+
+*******************MAIN MENU*******************
+
+ 1. Create tree
+ 2. Preorder traversal
+ 3. Inorder traversal
+ 4. Postorder traversal
+ 5. Delete an element
+ 6. Exit
+ -- Enter your selection:3
+ -- Traversing Inorder.
+
+ -- The elements of the tree are:
+315     327     491     503     524     598     605     627     654     818     906     968
+
+*******************MAIN MENU*******************
+
+ 1. Create tree
+ 2. Preorder traversal
+ 3. Inorder traversal
+ 4. Postorder traversal
+ 5. Delete an element
+ 6. Exit
+ -- Enter your selection:5
+
+ -- Enter the element to be deleted:315
+
+ -- Element Deleted.
+
+
+*******************MAIN MENU*******************
+
+ 1. Create tree
+ 2. Preorder traversal
+ 3. Inorder traversal
+ 4. Postorder traversal
+ 5. Delete an element
+ 6. Exit
+ -- Enter your selection:5
+
+ -- Enter the element to be deleted:222
+
+ -- Element is not in tree.
+
+
+*******************MAIN MENU*******************
+
+ 1. Create tree
+ 2. Preorder traversal
+ 3. Inorder traversal
+ 4. Postorder traversal
+ 5. Delete an element
+ 6. Exit
+ -- Enter your selection:5
+
+ -- Enter the element to be deleted:654
+
+ -- Element Deleted.
+
+
+*******************MAIN MENU*******************
+
+ 1. Create tree
+ 2. Preorder traversal
+ 3. Inorder traversal
+ 4. Postorder traversal
+ 5. Delete an element
+ 6. Exit
+ -- Enter your selection:4
+ -- Traversing in postorder.
+
+ -- The elements of the tree are:
+327     503     524     598     818     627     968     906     605     491
+
+*******************MAIN MENU*******************
+
+ 1. Create tree
+ 2. Preorder traversal
+ 3. Inorder traversal
+ 4. Postorder traversal
+ 5. Delete an element
+ 6. Exit
+ -- Enter your selection:1
+
+ -- Creating Tree.
+
+
+*******************MAIN MENU*******************
+
+ 1. Create tree
+ 2. Preorder traversal
+ 3. Inorder traversal
+ 4. Postorder traversal
+ 5. Delete an element
+ 6. Exit
+ -- Enter your selection:3
+ -- Traversing Inorder.
+
+ -- The elements of the tree are:
+224     304     331     385     472     527     641     658     759     791     894     973
+
+*******************MAIN MENU*******************
+
+ 1. Create tree
+ 2. Preorder traversal
+ 3. Inorder traversal
+ 4. Postorder traversal
+ 5. Delete an element
+ 6. Exit
+ -- Enter your selection:6
+
+ -- Exiting...

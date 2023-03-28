@@ -1,0 +1,194 @@
+
+
+*******************MAIN MENU*******************
+
+ 1. Create Expression tree
+ 2. Print Prefix Expression
+ 3. Print Infix Expression
+ 4. Print Postfix Expression
+ 5. Print tree
+ 6. Evaluate Expression
+ 7. Exit
+ -- Enter your selection:1
+
+ -- Creating Tree.
+Type your expression: 5+1*3-2
+
+Tree Created
+
+
+*******************MAIN MENU*******************
+
+ 1. Create Expression tree
+ 2. Print Prefix Expression
+ 3. Print Infix Expression
+ 4. Print Postfix Expression
+ 5. Print tree
+ 6. Evaluate Expression
+ 7. Exit
+ -- Enter your selection:2
+ -- Printing prefix expression.
+
+ -- The elements of the tree are:
++       5       -       *       1       3       2
+
+*******************MAIN MENU*******************
+
+ 1. Create Expression tree
+ 2. Print Prefix Expression
+ 3. Print Infix Expression
+ 4. Print Postfix Expression
+ 5. Print tree
+ 6. Evaluate Expression
+ 7. Exit
+ -- Enter your selection:3
+ -- Printing infix expression.
+
+ -- The elements of the tree are:
+5       +       1       *       3       -       2
+
+*******************MAIN MENU*******************
+
+ 1. Create Expression tree
+ 2. Print Prefix Expression
+ 3. Print Infix Expression
+ 4. Print Postfix Expression
+ 5. Print tree
+ 6. Evaluate Expression
+ 7. Exit
+ -- Enter your selection:4
+ -- Printing Postfix Expression.
+
+ -- The elements of the tree are:
+5       1       3       *       2       -       +
+
+*******************MAIN MENU*******************
+
+ 1. Create Expression tree
+ 2. Print Prefix Expression
+ 3. Print Infix Expression
+ 4. Print Postfix Expression
+ 5. Print tree
+ 6. Evaluate Expression
+ 7. Exit
+ -- Enter your selection:5
+
+Printing Tree
+    2
+  -
+      3
+    *
+      1
++
+  5
+
+
+*******************MAIN MENU*******************
+
+ 1. Create Expression tree
+ 2. Print Prefix Expression
+ 3. Print Infix Expression
+ 4. Print Postfix Expression
+ 5. Print tree
+ 6. Evaluate Expression
+ 7. Exit
+ -- Enter your selection:6
+
+Evaluating Expresson:
+5       +       1       *       3       -       2        = 6.00
+
+*******************MAIN MENU*******************
+
+ 1. Create Expression tree
+ 2. Print Prefix Expression
+ 3. Print Infix Expression
+ 4. Print Postfix Expression
+ 5. Print tree
+ 6. Evaluate Expression
+ 7. Exit
+ -- Enter your selection:1
+
+ -- Creating Tree.
+Type your expression: *+51-32
+
+Tree Created
+
+
+*******************MAIN MENU*******************
+
+ 1. Create Expression tree
+ 2. Print Prefix Expression
+ 3. Print Infix Expression
+ 4. Print Postfix Expression
+ 5. Print tree
+ 6. Evaluate Expression
+ 7. Exit
+ -- Enter your selection:5
+
+Printing Tree
+    2
+  -
+    3
+*
+    1
+  +
+    5
+
+
+*******************MAIN MENU*******************
+
+ 1. Create Expression tree
+ 2. Print Prefix Expression
+ 3. Print Infix Expression
+ 4. Print Postfix Expression
+ 5. Print tree
+ 6. Evaluate Expression
+ 7. Exit
+ -- Enter your selection:6
+
+Evaluating Expresson:
+5       +       1       *       3       -       2        = 6.00
+
+*******************MAIN MENU*******************
+
+ 1. Create Expression tree
+ 2. Print Prefix Expression
+ 3. Print Infix Expression
+ 4. Print Postfix Expression
+ 5. Print tree
+ 6. Evaluate Expression
+ 7. Exit
+ -- Enter your selection:1
+
+ -- Creating Tree.
+Type your expression: 3*(4-2)
+
+Tree Created
+
+
+*******************MAIN MENU*******************
+
+ 1. Create Expression tree
+ 2. Print Prefix Expression
+ 3. Print Infix Expression
+ 4. Print Postfix Expression
+ 5. Print tree
+ 6. Evaluate Expression
+ 7. Exit
+ -- Enter your selection:6
+
+Evaluating Expresson:
+3       *       4       -       2        = 6.00
+
+*******************MAIN MENU*******************
+
+ 1. Create Expression tree
+ 2. Print Prefix Expression
+ 3. Print Infix Expression
+ 4. Print Postfix Expression
+ 5. Print tree
+ 6. Evaluate Expression
+ 7. Exit
+ -- Enter your selection:7
+
+ -- Exiting...

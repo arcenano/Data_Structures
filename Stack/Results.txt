@@ -1,0 +1,4 @@
+Welcome to Palindrome Verifier 9000
+Type a phrase to check: Eva, can I see bees in a cave?
+Your string: Eva, can I see bees in a cave?
+Is a palindrome!

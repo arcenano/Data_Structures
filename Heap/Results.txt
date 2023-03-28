@@ -1,0 +1,104 @@
+*******************MAIN MENU*******************
+
+ 1. Build Heap
+ 2. Insert Element
+ 3. Delete Root
+ 4. Print tree
+ 5. Exit
+ -- Enter your selection:1
+
+ -- Creating Heap.
+
+
+*******************MAIN MENU*******************
+
+ 1. Build Heap
+ 2. Insert Element
+ 3. Delete Root
+ 4. Print tree
+ 5. Exit
+ -- Enter your selection:4
+
+Printing Heap
+4
+5 13
+12 7 22 17
+28 12 11 16
+
+
+*******************MAIN MENU*******************
+
+ 1. Build Heap
+ 2. Insert Element
+ 3. Delete Root
+ 4. Print tree
+ 5. Exit
+ -- Enter your selection:2
+
+What value do you wish to insert?3
+
+
+*******************MAIN MENU*******************
+
+ 1. Build Heap
+ 2. Insert Element
+ 3. Delete Root
+ 4. Print tree
+ 5. Exit
+ -- Enter your selection:2
+
+What value do you wish to insert?5
+
+
+*******************MAIN MENU*******************
+
+ 1. Build Heap
+ 2. Insert Element
+ 3. Delete Root
+ 4. Print tree
+ 5. Exit
+ -- Enter your selection:4
+
+Printing Heap
+3
+5 4
+12 7 5 17
+28 12 11 16 22 13
+
+
+*******************MAIN MENU*******************
+
+ 1. Build Heap
+ 2. Insert Element
+ 3. Delete Root
+ 4. Print tree
+ 5. Exit
+ -- Enter your selection:3
+
+Deleting Root
+
+
+*******************MAIN MENU*******************
+
+ 1. Build Heap
+ 2. Insert Element
+ 3. Delete Root
+ 4. Print tree
+ 5. Exit
+ -- Enter your selection:4
+
+Printing Heap
+4
+5 12
+7 5 13 28
+12 11 16 22 17
+
+
+*******************MAIN MENU*******************
+
+ 1. Build Heap
+ 2. Insert Element
+ 3. Delete Root
+ 4. Print tree
+ 5. Exit
+ -- Enter your selection:

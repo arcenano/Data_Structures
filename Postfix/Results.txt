@@ -1,0 +1,4 @@
+Type your expression: (5+3)*4
+Infix: (5+3)*4
+Postfix: 53+4*
+Result: 32

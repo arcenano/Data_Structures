@@ -1,0 +1,114 @@
+Character Linked List Stats Calculator
+The Maximum is Z. This letter is at position: 41
+The Minimum is A. This letter is at position: 9
+Printing List
+P
+H
+Q
+G
+H
+U
+M
+E
+A
+Y
+L
+N
+L
+F
+D
+X
+F
+I
+R
+C
+V
+S
+C
+X
+G
+G
+B
+W
+K
+F
+N
+Q
+D
+U
+X
+W
+F
+N
+F
+O
+Z
+V
+S
+R
+T
+K
+J
+P
+R
+E
+P
+G
+G
+X
+R
+P
+N
+R
+V
+Y
+S
+T
+M
+W
+C
+Y
+S
+Y
+Y
+C
+Q
+P
+E
+V
+I
+The mean is: N
+The median is: P
+The modes, with 5 repetitions are: F, G, P, R, and Y.
+Removing Duplicates
+Printing List
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+The mean is: M
+The median is: M
+All characters have 1 repetition, they are all the mode.
+List was deleted.
